@@ -1,19 +1,23 @@
 # PyTorch LSTM occupancy detection model
 LSTM for occupancy detection in smart homes using indoor climate data
 
-## Paper
+### Paper
 To read about this project: 
 [LSTM for occupancy detection in smart homes using indoor climate data](/Images/LSTM_for_occupancy_detection_in_smart_homes_using_indoor_climate_data.pdf)
 
 ### Datasets from the paper
-* [Occupancy detection dataset] (https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
-* [Room climate dataset] (https://github.com/IoTsec/Room-Climate-Datasets)
+* [Occupancy detection dataset](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
+* [Room climate dataset](https://github.com/IoTsec/Room-Climate-Datasets)
+
+---
 
 ## Result
 
 LSTM predictions on the *Occupancy detection dataset*
 
 ![LSTM predictions](/Images/LSTM_preds.png)
+
+---
 
 ### How to run it
 
