@@ -34,7 +34,7 @@ LSTM predictions on the *Occupancy detection dataset*
 
 **Raspberry Pi 3**
 1. Download the LSTM_Raspberry_Pi directory to your Raspberry Pi 3
-2. Follow this guide: [A Step by Step guide to installing PyTorch in Raspberry Pi] (https://medium.com/secure-and-private-ai-writing-challenge/a-step-by-step-guide-to-installing-pytorch-in-raspberry-pi-a1491bb80531) 
+2. Follow this guide: [A Step by Step guide to installing PyTorch in Raspberry Pi](https://medium.com/secure-and-private-ai-writing-challenge/a-step-by-step-guide-to-installing-pytorch-in-raspberry-pi-a1491bb80531) 
 3. To get necessary files, run [Raspberry_Pi_3_Occupancy_Detection_Dataset_LSTM_model.ipynb](https://github.com/Linkanblomman/LSTM_occupancy_detection/blob/main/Raspberry_Pi_3_Occupancy_Detection_Dataset_LSTM_model.ipynb).
 4. Pip install necessary modules
 5. Run code as the image below shows with the command "Python3 lstm__for_raspberrypi.py"
