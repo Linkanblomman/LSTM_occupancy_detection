@@ -1,11 +1,11 @@
 # PyTorch LSTM occupancy detection model
-LSTM for occupancy detection in smart homes using indoor climate data
+*Long Short Term Memory* occupancy detection in smart homes using indoor climate data
 
 ### Paper
 To read about this project: 
 [LSTM for occupancy detection in smart homes using indoor climate data](/Images/LSTM_for_occupancy_detection_in_smart_homes_using_indoor_climate_data.pdf)
 
-### Datasets from the paper
+#### Datasets from the paper
 * [Occupancy detection dataset](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
 * [Room climate dataset](https://github.com/IoTsec/Room-Climate-Datasets)
 
@@ -32,7 +32,7 @@ LSTM predictions on the *Occupancy detection dataset*
 2. Open "*Open Notebook*" then go to "*GitHub*" tab and then search for "*Linkanblomman*" and choose repository "*Linkanblomman/LSTM_occupancy_detection*"
 3. Pick the notebook and run it
 
-**Raspberry Pi 3**
+**Run on a Raspberry Pi 3**
 1. Download the LSTM_Raspberry_Pi directory to your Raspberry Pi 3
 2. Follow this guide: [A Step by Step guide to installing PyTorch in Raspberry Pi](https://medium.com/secure-and-private-ai-writing-challenge/a-step-by-step-guide-to-installing-pytorch-in-raspberry-pi-a1491bb80531) 
 3. To get necessary files, run [Raspberry_Pi_3_Occupancy_Detection_Dataset_LSTM_model.ipynb](https://github.com/Linkanblomman/LSTM_occupancy_detection/blob/main/Raspberry_Pi_3_Occupancy_Detection_Dataset_LSTM_model.ipynb).
