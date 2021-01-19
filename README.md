@@ -15,7 +15,7 @@ To read about this project:
 
 LSTM predictions on the *Occupancy detection dataset*
 
-![LSTM predictions](/Images/Rasp_terminal.png)
+![LSTM predictions](/Images/LSTM_preds.png)
 
 ---
 
@@ -40,7 +40,7 @@ LSTM predictions on the *Occupancy detection dataset*
 5. Pip install necessary modules
 6. Run code as the image below shows with the command "Python3 lstm__for_raspberrypi.py"
 
-![Rasp terminal](/Images/Rasp_terminal.png)
+![Rasp terminal](/Images/raspberry_pi_terminal.png)
 
 
 **NOTE!**
