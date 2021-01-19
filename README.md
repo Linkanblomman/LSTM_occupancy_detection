@@ -15,7 +15,7 @@ To read about this project:
 
 LSTM predictions on the *Occupancy detection dataset*
 
-![LSTM predictions](/Images/LSTM_preds.png)
+![LSTM predictions](/Images/Rasp_terminal.png)
 
 ---
 
